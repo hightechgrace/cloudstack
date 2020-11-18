@@ -82,7 +82,7 @@
     <cs.aws.sdk.version>1.3.22</cs.aws.sdk.version>
     <cs.lang.version>2.6</cs.lang.version>
     <cs.commons-io.version>1.4</cs.commons-io.version>
-    <cs.reflections.version>0.9.8</cs.reflections.version>
+    <cs.reflections.version>0.9.12</cs.reflections.version>
     <cs.java-ipv6.version>0.10</cs.java-ipv6.version>
     <cs.replace.properties>build/replace.properties</cs.replace.properties>
     <cs.libvirt-java.version>0.5.1</cs.libvirt-java.version>
@@ -637,7 +637,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -650,7 +650,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -664,7 +664,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore></ignore>
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -678,7 +678,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                      <ignore></ignore>
+                      <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
